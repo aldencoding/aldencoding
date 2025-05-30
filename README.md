@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello World, i'm Farrel, BE-DEV😎</h1>
+<h1 align="center">Hello World, i'm Farrel, WEB-DEV😎</h1>
 
 ###
 
