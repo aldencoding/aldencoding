@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Dear HR I'm Progammer, not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</p>
+<h4 align="left">Dear HR I'm Progammer, not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</h4>
 
 ###
 
@@ -42,16 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aldencoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
