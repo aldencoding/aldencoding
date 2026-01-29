@@ -1,6 +1,18 @@
 <div align="center">
-  <img height="125" src="https://yt3.googleusercontent.com/qlkSonH5uFuHiNSLHtFWc-i1bs9kG_Mu8BPbmWT4C4fyXdMaS9yCCp7wfN3rDT-SdCUHNryjHCs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
+  <img height="145" src="https://yt3.googleusercontent.com/qlkSonH5uFuHiNSLHtFWc-i1bs9kG_Mu8BPbmWT4C4fyXdMaS9yCCp7wfN3rDT-SdCUHNryjHCs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
 </div>
+
+###
+
+<h1 align="center">Focus On SaaS<br>(Serabutan as a Service)</h1>
+
+###
+
+<h2 align="left">Dear HR I'm Progammer, not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</h2>
+
+###
+
+<h4 align="left">Look my kisah 👇👇👇</h4>
 
 ###
 
@@ -18,15 +30,7 @@
 
 ###
 
-<h1 align="center">Focus On SaaS<br>(Serabutan as a Service)</h1>
-
-###
-
-<h4 align="left">Dear HR I'm Progammer, not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
