@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Dear HR I'm Progammer, not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</p>
+<p align="left">Dear HR, I'm Progammer. not Printer <br>Technical Specialist.. oKay.. :)<br><br>- 🔭 I’m working as Spring Progammer<br>- 📚 Currently Develop ERP Multifinance <br>- ⚡ In my free time I scrool Fesnuk..</p>
 
 ###
 
